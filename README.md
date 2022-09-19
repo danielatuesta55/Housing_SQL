@@ -26,11 +26,17 @@ This project was created to showcase my skills using SQL to clean raw data. This
 In the following section you can see the before and after the code when executed. 
 
 ### Phase 1: 
+
 ### Phase 2:
+
 ### Phase 3:
+
 ### Phase 4:
+
 ### Phase 5:
 ### Phase 6:
+
 ### Phase 7: 
+
 ### Phase 8:
 
