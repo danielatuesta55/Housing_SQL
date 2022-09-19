@@ -1,5 +1,6 @@
 <h1 style="text-align:center">Nashville Housing Data Cleaning <h1>
-![gif](<iframe src="https://giphy.com/embed/Wsju5zAb5kcOfxJV9i" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/keyboard-admin-prtg-Wsju5zAb5kcOfxJV9i">via GIPHY</a></p>)
+
+![Defo1](https://media.giphy.com/media/2A1bv7vVgcKGLYyWxA/giphy.gif)
 
 <h3 style="text-align:right"> By: Jorge Daniel Atuesta <h3>
 
@@ -7,11 +8,16 @@
 
 This project was created to showcase my skills using SQL to clean raw data. This project is an original from "Alex the Analyst". 
 
+![aim](https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif)
+
+
 ## Repo Structure
 1. **Images** folder: contains all images used for this markdown file.
 2. **Resources** folder: Contains the original excel file
 
 ## Results
+
+![results](https://media.giphy.com/media/mG1MxDDEMSAVkF7da3/giphy.gif)
 
 ### The project had 8 main phases:
 1. Import the excel file into SQL Server database.
