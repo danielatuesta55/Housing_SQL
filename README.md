@@ -7,8 +7,8 @@
 This project was created to showcase my skills using SQL to clean raw data. This project is an original from "Alex the Analyst". 
 
 ## Repo Structure
-1. Images folder: contains all images used for this markdown file.
-2. Resources folder: Contains the original excel file
+1. **Images** folder: contains all images used for this markdown file.
+2. **Resources** folder: Contains the original excel file
 
 ## Results
 
@@ -25,18 +25,31 @@ This project was created to showcase my skills using SQL to clean raw data. This
 ## Visualizing the code
 In the following section you can see the before and after the code when executed. 
 
-### Phase 1: 
+### Phase 2: Standarize Sale Date Format
 
-### Phase 2:
+### Phase 3: Populate Property Address using another column as reference
+#### **Before**
 
-### Phase 3:
+#### **After**
+### Phase 4: Split Property Address column (Address, City, State)
+#### **Before**
 
-### Phase 4:
+#### **After**
+### Phase 5: Split Owner Address column (Address, City, State)
+#### **Before**
 
-### Phase 5:
-### Phase 6:
+#### **After**
+### Phase 6: Alter SoldAsVacant
+#### **Before**
+![Check_No_Count.png](images/check_no_count.png)
 
-### Phase 7: 
+#### **After**
+![FINAL_CHANGE_YES.png](images/FINAL_CHANGE_YES.png)
+### Phase 7: Removed duplicates
+#### **Before**
+![identify_Duplicates.png](images/identify_duplicates.png)
 
-### Phase 8:
+![before_deleted_columns.png](Images/after_delete_confirmatio.png)
+#### **After**
+![deleted_columns.png](Images/view_after_delete_duplicates.png)
 
